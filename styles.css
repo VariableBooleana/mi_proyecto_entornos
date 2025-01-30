@@ -87,3 +87,23 @@ body {
       width: 100%;
     }
   }
+
+  img { 
+    width: 500px; 
+    display: block;
+    margin: 0 auto;
+    height: auto; 
+    border-radius: 10px; 
+    border: 2px solid #e4e70865; 
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5); 
+    opacity: 0.9; 
+    cursor: pointer; 
+    }
+
+    .c1{
+      text-align: center;
+      color: #2c3e50;
+    }
+    article{
+      text-align: justify;
+    }
